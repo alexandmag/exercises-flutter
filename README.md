@@ -1,6 +1,6 @@
-# exercises
+# Exercises-flutter
 
-A new Flutter project.
+A new Flutter project based on our Mobile classes.
 
 ## Getting Started
 
